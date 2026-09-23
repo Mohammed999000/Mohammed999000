@@ -60,14 +60,9 @@ Java programming practice covering problem-solving, arrays, matrices, number pro
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-safwaan9&theme=tokyonight" alt="GitHub profile details" />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammed-safwaan9&theme=tokyonight" alt="Repositories by language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammed-safwaan9&theme=tokyonight" alt="GitHub statistics" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=mohammed-safwaan9&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+[![GitHub Stats](https://img.shields.io/badge/View_GitHub_Activity-mohammed--safwaan9-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-safwaan9?tab=overview)
+[![Repositories](https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-safwaan9?tab=repositories)
+[![Contribution History](https://img.shields.io/badge/View_Contributions-7C3AED?style=for-the-badge&logo=github)](https://github.com/mohammed-safwaan9?tab=overview)
 
 </div>
 
