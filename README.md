@@ -101,11 +101,13 @@ A collection of Java programming practice and problem-solving exercises, includi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohammed999000/Mohammed999000/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/Mohammed999000/Mohammed999000/output/github-snake.svg" alt="GitHub contribution snake" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/Mohammed999000/Mohammed999000/output/github-snake-dark.svg" alt="GitHub contribution snake dark mode" />
 
 </div>
-
-> The contribution snake requires a GitHub Actions workflow in this repository to generate the SVG. It can be added separately.
 
 ---
 
