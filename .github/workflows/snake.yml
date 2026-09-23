@@ -17,12 +17,11 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake animation
+      - name: Generate dark contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Mohammed999000
+          github_user_name: mohammed-safwaan9
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish snake animation to output branch
