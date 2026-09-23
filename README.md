@@ -23,20 +23,8 @@
 ```python
 class MohammedSafwaan:
     role = "Computer Science Engineering Student"
-    focus = [
-        "Full-Stack Development",
-        "Backend Engineering",
-        "Cloud & DevOps",
-        "Cybersecurity",
-    ]
-
-    stack = {
-        "languages": ["Python", "Java", "JavaScript", "TypeScript", "C", "SQL"],
-        "frontend": ["HTML", "CSS", "Next.js"],
-        "backend": ["FastAPI", "PostgreSQL", "REST APIs"],
-        "infra": ["Docker", "AWS", "GitHub Actions"],
-        "hardware": ["STM32", "Arduino", "ESP", "Sensors"],
-    }
+    focus = ["Full-Stack Development", "Backend", "Cloud", "DevOps", "Cybersecurity"]
+    stack = ["Python", "Java", "JavaScript", "TypeScript", "C", "SQL"]
 
     def current_focus(self):
         return [
@@ -50,36 +38,23 @@ class MohammedSafwaan:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ### 🧠 RAG Bot
 
-A production-oriented, multi-tenant Retrieval-Augmented Generation chatbot that allows users to upload private documents and chat with them securely.
+A multi-tenant Retrieval-Augmented Generation chatbot for private document Q&A.
 
 - Google OAuth 2.0 and JWT authentication
 - User-level document isolation
 - PDF, Word, and text document support
-- Vector search with Pinecone
-- Dockerized and deployed on AWS EC2
+- Pinecone vector search and Groq Llama 3
+- Dockerized deployment on AWS EC2
 
-**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Pinecone · Groq · Llama 3 · Docker · AWS
+**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Pinecone · Groq · Docker · AWS
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Ayyan/RAG_BOT)
-
-</td>
-<td width="45%" valign="top">
-
-<img width="100%" alt="RAG chatbot illustration" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=220&text=RAG%20BOT&fontSize=32&fontColor=ffffff" />
-
-</td>
-</tr>
-</table>
+[![Repository](https://img.shields.io/badge/View_RAG_Bot_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Ayyan/RAG_BOT)
 
 ### 🅿️ Parking Management System
 
-An embedded and connected parking solution combining microcontrollers, sensors, backend communication, payment-related callbacks, and barrier-control logic.
+An embedded and connected parking solution combining microcontrollers, sensors, backend communication, payment callbacks, and barrier-control logic.
 
 **Technologies:** STM32 · ESP · Arduino · Ultrasonic Sensors · Servo · Backend Integration
 
@@ -87,7 +62,7 @@ An embedded and connected parking solution combining microcontrollers, sensors, 
 
 Java practice covering arrays, matrices, number problems, input handling, and programming fundamentals.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9/Leetcode-Java-)
+[![View Repository](https://img.shields.io/badge/View_Java_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9/Leetcode-Java-)
 
 ---
 
@@ -127,26 +102,17 @@ Java practice covering arrays, matrices, number problems, input handling, and pr
 
 ## 📈 GitHub Activity
 
+The external statistics-card services were removed because they were returning temporary rate-limit errors.
+
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-safwaan9&theme=tokyonight" alt="GitHub profile details" />
-
-<br />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammed-safwaan9&theme=tokyonight" alt="Repositories by language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammed-safwaan9&theme=tokyonight" alt="Most used commit languages" />
-
-<br />
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammed-safwaan9&theme=tokyonight" alt="GitHub statistics" />
+[![View Profile](https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9)
+[![Repositories](https://img.shields.io/badge/View_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9?tab=repositories)
+[![Contributions](https://img.shields.io/badge/View_Contributions-0A7B5B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9?tab=overview)
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=mohammed-safwaan9&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-safwaan9&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true&theme=tokyo-night&area=true" alt="GitHub activity graph" />
 
 </div>
 
