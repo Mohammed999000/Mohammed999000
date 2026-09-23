@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" alt="Mohammed Safwaan header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=220&section=header&text=Mohammed%20Safwaan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20Cybersecurity&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" alt="Mohammed Safwaan header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,24&height=240&section=header&text=Mohammed%20Safwaan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20Cybersecurity&descSize=16&descAlignY=58&animation=fadeIn" />
 
-<img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Building+practical+software;Full-Stack+Development+%C2%B7+Cloud+%C2%B7+Cybersecurity;Learning+by+building+real+projects;Turning+ideas+into+working+systems" />
+<img alt="Personal tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=A+companion%2C+not+a+clone.;Building+practical+software;Full-Stack+Development+%C2%B7+Cloud+%C2%B7+Cybersecurity;Turning+ideas+into+working+systems" />
 
 <br />
 
