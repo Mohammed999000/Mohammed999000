@@ -38,25 +38,28 @@ class MohammedSafwaan:
 
 ## 🚀 Featured Projects
 
-### 🧠 RAG Bot
+### 🤖 GenAI RAG Chatbot
 
-A multi-tenant Retrieval-Augmented Generation chatbot for private document Q&A.
+A production-ready, full-stack Retrieval-Augmented Generation chatbot for private document Q&A, with authentication, streaming responses, vector search, and cloud-ready deployment.
 
 - Google OAuth 2.0 and JWT authentication
-- User-level document isolation
-- PDF, Word, and text document support
-- Pinecone vector search and Groq Llama 3
-- Dockerized deployment on AWS EC2
+- User-level document and chat isolation
+- PDF, DOCX, and TXT document ingestion
+- Pinecone vector search with Groq / Llama 3
+- Dockerized frontend, backend, and PostgreSQL
+- AWS EC2 deployment with optional Cloudflare Tunnel
 
-**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Pinecone · Groq · Docker · AWS
+**Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Pinecone · Groq · Llama 3 · Docker · AWS
 
-[![Repository](https://img.shields.io/badge/View_RAG_Bot_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9/Gen-rag-chatbot)
+[![View Repository](https://img.shields.io/badge/View_GenAI_RAG_Chatbot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9/Gen-rag-chatbot)
 
-### 🅿️ Parking Management System
+### 🅿️ Prepaid Parking System
 
-An embedded and connected parking solution combining microcontrollers, sensors, backend communication, payment callbacks, and barrier-control logic.
+An embedded and connected parking solution combining microcontrollers, sensors, backend communication, payment flow, and barrier-control logic.
 
 **Technologies:** STM32 · ESP · Arduino · Ultrasonic Sensors · Servo · Backend Integration
+
+[![View Repository](https://img.shields.io/badge/View_Prepaid_Parking_System-0A7B5B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9/Prepaid-Parking-System)
 
 ### ☕ Java Practice
 
@@ -101,8 +104,6 @@ Java practice covering arrays, matrices, number problems, input handling, and pr
 ---
 
 ## 📈 GitHub Activity
-
-The external statistics-card services were removed because they were returning temporary rate-limit errors.
 
 <div align="center">
 
