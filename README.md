@@ -50,7 +50,7 @@ A multi-tenant Retrieval-Augmented Generation chatbot for private document Q&A.
 
 **Stack:** Next.js · TypeScript · FastAPI · Python · PostgreSQL · Pinecone · Groq · Docker · AWS
 
-[![Repository](https://img.shields.io/badge/View_RAG_Bot_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammed-Ayyan/RAG_BOT)
+[![Repository](https://img.shields.io/badge/View_RAG_Bot_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-safwaan9/Gen-rag-chatbot)
 
 ### 🅿️ Parking Management System
 
